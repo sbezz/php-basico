@@ -59,7 +59,7 @@ $h = 11 % 4+9 / 3;
 <div class="container">
     <h2>Exercicio 01 - Curso php-Básico</h2>
     <p>Exibindo Valores de Variaveis:</p>
-    <table class="table table-striped">
+    <table class="table table-hover">
         <thead>
             <tr>
                 <th>Valor de</th>
@@ -167,11 +167,6 @@ $h = 11 % 4+9 / 3;
                     <?php echo $i; ?>
                 </td>
             </tr>
-            <tr bgcolor="gray">
-                <td bgcolor="gray"></td>
-                <td bgcolor="gray"></td>
-                <td bgcolor="gray"></td>
-            </tr>
             <tr>
                 <td width="15%">
                     Valor de
@@ -193,5 +188,3 @@ $h = 11 % 4+9 / 3;
 
 </body>
 </html>
-
-
